@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin name="cordova-plugin-facebook4" spec="~1.7.4">
+    <variable name="APP_ID" value="491730651346127" />
+    <variable name="APP_NAME" value="proyecto" />
+    <content src="index.html" />
+</plugin>
